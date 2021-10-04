@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shavkat1717
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on real tempates.
+- 💞️ I’m looking to collaborate on real templates.
 - 📫 How to reach me ? Call me +99894-929-75-17
 
 <!---
